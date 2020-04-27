@@ -1,63 +1,23 @@
-# Lets-Learn-together
-
-# I Want To Learn
-### List of free material to learn free
-
-### `Fork it and make your own`
+### Article that might help you
 
 
+#### React Series
+`Your First Application In React.js   :`https://medium.com/@Aqsaumar48/environment-setup-for-your-first-application-in-react-js-46e08239c141
 
-#### Free Courses provided by 
-`Coursera          :`https://www.coursera.org/
+Structure of Your first project in ReactJS :`https://medium.com/@Aqsaumar48/structure-of-your-first-project-in-reactjs-hellow-word-2cc4102e465d
 
-`kaggle            :`https://www.kaggle.com/
+Basic Understanding of DOM :`https://medium.com/@Aqsaumar48/basic-understanding-of-dom-react-virtual-dom-c2b5905fb7d1
 
-`codecademy        :`https://www.codecademy.com/
+####Tech Related
+`Google app Engine         :`https://medium.com/@Aqsaumar48/everything-you-need-to-know-about-google-app-engine-ad15cb3756c1
+`Ultimate Guide to GitHub’s Student Developer Pack      :`https://medium.com/@Aqsaumar48/learn-with-github-education-an-ultimate-guide-to-githubs-student-developer-pack-10c46e71f842
 
-`flicklearning     :`https://www.flicklearning.com/courses/
-
-
-
-#### JavaScript : 
-
-`Data Structure And Algorithms :`https://freecoursesite.com/master-the-coding-interview-data-structures-algorithms/
-
-`Senior Web Developer Guide: `https://www.freetutorialsus.com/the-complete-junior-to-senior-web-developer-roadmap-udemy-course-free-download/
-
-`Advanced JavaScript Concepts:` https://freecoursesite.com/advanced-javascript-concepts/
-
-`Learn React Zero to Hero:`https://freecoursesite.com/complete-react-developer-in-2019-w-redux-hooks-graphql/
-
-`React Native: ` https://freecoursesite.com/the-complete-react-native-and-redux-course-1/
-
-`React Native Advanced Concepts :` https://freecoursesite.com/1-react-native-advanced-concepts/
-
-`JavaScript Advance Concept Book: ` https://github.com/getify/You-Dont-Know-JS 
-
-`Complete Nodejs Course: `https://www.freetutorialsus.com/the-complete-node-js-developer-course-3rd-edition/
-
-`NextJs Complete Guide : `https://www.freecodecamp.org/news/the-next-js-handbook/
+#### Others
+`Acceptance is the road to all change        :`https://medium.com/@Aqsaumar48/acceptance-is-the-road-to-all-change-8afa98777ae8
 
 
 
 
-
-#### Python: 
-
-https://freecoursesite.com/the-complete-python-3-masterclass-from-beginner-to-pro/
-
-https://pythonbestcourses.com/complete-python-developer-in-2020/
-
-
-#### Artificial Intelligence and Machine Learning 
-
-https://freecoursesite.com/data-science-deep-learning-machine-learning-with-python-1/
-
-#### Tech Interview 
-
-
-#### GitHub Education
-https://education.github.com/pack
 
 
 
